@@ -111,7 +111,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label:  "senemaktas" "GitHub"
+    - label:  "senemaktas"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
