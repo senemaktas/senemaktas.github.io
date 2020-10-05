@@ -4,7 +4,7 @@ permalink: /about/
 layout: archive
 author_profile: true
 header: 
-  images: "/images/aboutpagephoto.png"
+  image: "/images/aboutpagephoto.png"
 
 ---
 
