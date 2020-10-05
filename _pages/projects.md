@@ -3,8 +3,9 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
-header: 
-  images: "/images/sitemlphoto.jpg"
+header:
+  image: "/images/sitemlphoto.jpg"
+  
 ---
 
 
