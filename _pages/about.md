@@ -1,11 +1,10 @@
 ---
 title: "About"
 permalink: /about/
-layout: archive
 author_profile: true
-header: 
+header:
   image: "/images/aboutpagephoto.png"
-
+  
 ---
 
 ## Hi there 👋
