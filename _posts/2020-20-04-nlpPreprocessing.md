@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Project: NLP Preprocessing"
+title: "NLP Preprocessing"
 date: 2020-10-04
 tags: [machine learning, nlp, data science]
 header: 
