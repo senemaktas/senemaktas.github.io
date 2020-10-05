@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Machine Learning"
+  - title: "ML & AI"
     url: /machine-learning/
+  - title: "Math & Statistics"
+    url: /statistics/
   - title: "About"
     url: /about/
   # - title: "About"
