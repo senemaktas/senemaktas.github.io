@@ -4,5 +4,7 @@ main:
     url: /machine-learning/
   - title: "Math & Statistics"
     url: /math-stat/
+  - title: "Projects"
+    url: /projects/
   - title: "About"
     url: /about/
