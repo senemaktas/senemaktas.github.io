@@ -7,6 +7,7 @@ header:
   images: "/images/sitemlphoto.jpg"
 ---
 
+'''
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
@@ -15,4 +16,10 @@ header:
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
+{% endfor %} '''
+
+{% for post in site.posts %}
+
+    {% include archive-single.html %}
+
 {% endfor %}
