@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Math and Statics Posts by Tags"
+title: "Math and Statics Posts"
 permalink: /math-stat/
 author_profile: true
 header: 
