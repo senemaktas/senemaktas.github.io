@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Senem Aktaş"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Senem Aktaş"
+name                     : "Home"
 description              : "Data Science"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "contrast" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
