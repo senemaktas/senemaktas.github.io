@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Projects"
+title: " "
 permalink: /projects/
 author_profile: true
 header:
-  image: "/images/sitemlphoto.jpg"
+  image: "/images/sitemlphoto.png"
   
 ---
 
