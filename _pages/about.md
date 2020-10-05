@@ -2,7 +2,8 @@
 title: "About"
 permalink: /about/
 header: 
-  images: "/images/sideaboutphoto.jpg"
+  images: "/images/aboutpagephoto.png"
+
 ---
 
 ## Hi there 👋
