@@ -2,7 +2,7 @@
 main:
   - title: "ML & AI"
     url: /machine-learning/
-  - title: "Math & Stats"
-    url: /statistics/
+  - title: "Math & Statistics"
+    url: /math-stat/
   - title: "About"
     url: /about/
