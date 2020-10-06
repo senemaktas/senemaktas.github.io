@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Machine Learning Posts"
+title: " "
 permalink: /machine-learning/
 author_profile: true
-header: 
-  images: "/images/sitemlphoto.jpg"
+header:
+  image: "/images/sitepostsphoto.png"
+  
 ---
 
 {% for post in site.posts %}
