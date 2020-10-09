@@ -9,3 +9,5 @@ mathjax: "true"
 ---
 
 ## Useful Sites & Apps For Computer Engineers
+
+<img src="images/usefulsites.png" alt="useful sites header photo">
