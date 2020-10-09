@@ -9,7 +9,7 @@ mathjax: "true"
 ---
 
 <img src="../images/usefulsites.png" alt="useful sites header photo">
-Illustration: [Heeje Min Heo](https://minstudio.us/)
+           Illustration: [Heeje Min Heo](https://minstudio.us/)
 
 <p text-align="justify">Başlıktanda anlaşılacağı üzere kullanışlı bulduğum siteleri sizinle paylaşmak istedim. Genel olarak akademik ve bilgisayar bilimleri alanındaki siteleri ve uygulamları kapsamaktadır. Listeye yeni maddeler ekleyerek zenginleştirmeye devam edeceğim. Umarım sizin içinde yararlı olur.</p>
 
