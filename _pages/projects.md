@@ -4,7 +4,7 @@ title: " "
 permalink: /projects/
 author_profile: true
 header:
-  image: "https://github.com/senemaktas/senemaktas.github.io/blob/main/images/sitemlphoto.png"
+  image: "https://github.com/senemaktas/senemaktas.github.io/images/sitemlphoto.png"
   
 ---
 
