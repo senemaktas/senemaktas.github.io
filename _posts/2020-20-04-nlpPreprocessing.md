@@ -30,7 +30,7 @@ nltk.download(‘popular’)
 from nltk.tokenize import word_tokenize
 print(word_tokenize("Hi, this is my first example with NLP."))
 ```
-Output: ` ['Hi', ',', 'this', 'is', 'my', 'first', 'example', 'with', 'NLP', '.'] `
+Output:  ['Hi', ',', 'this', 'is', 'my', 'first', 'example', 'with', 'NLP', '.'] 
 
 ```python
 #Word root finding is a common process in NLP. The root finding process is called word stemmer. 
@@ -56,9 +56,9 @@ print(rootWord.lemmatize('constitutes','v'))
 sample = "Hi, this is my first example with NLP."
 print(pos_tag(word_tokenize(sample)))
 ```
-Output: ` constitute
-[('Hi', 'NNP'), (',', ','), ('this', 'DT'), ('is', 'VBZ'), ('my', 'PRP$'),`
-`('first', 'JJ'), ('example', 'NN'), ('with', 'IN'), ('NLP', 'NNP'), ('.', '.')]`
+Output: ` constitute `
+[('Hi', 'NNP'), (',', ','), ('this', 'DT'), ('is', 'VBZ'), ('my', 'PRP$'),
+('first', 'JJ'), ('example', 'NN'), ('with', 'IN'), ('NLP', 'NNP'), ('.', '.')]
 
 - <p align="justify"> When working with data, we can say that the first thing to do is "data cleaning". The first cleanup for text data is to remove punctuation marks. These are called "punctuations". The defined punctuation marks in the first code block below can be observed. </p>
 - <p align="justify"> Another data cleaning step is removing stop words for text data. Stop-words can define as low-meaning word for text data. They are very intense in the text and may negatively affect the actual desired process due to the possibility of high frequencies. It is important to perform this process, especially for sentiment analysis. You can see basic stop-words process in the second code block below. </p>
