@@ -60,3 +60,6 @@ Illustration: [Heeje Min Heo](https://minstudio.us/)
 - [Coding Game](https://www.codingame.com/start)
 - [Leetcode](https://leetcode.com/)
 - [CodeChef](https://www.codechef.com/)
+
+
+*You can reach that list to in my [Medium](https://medium.com/@SenemAktas/useful-sites-apps-for-computer-engineers-dfacac9373c?source=friends_link&sk=fe6fc021e96c0d8f0fa878f8b2af7fb2) page*
