@@ -4,10 +4,9 @@ title: " "
 permalink: /projects/
 author_profile: true
 header:
-  image: "/images/sitemlphoto.png"
+  image: "https://github.com/senemaktas/senemaktas.github.io/blob/main/images/sitemlphoto.png"
   
 ---
-
 
 {% for post in site.posts %}
 
