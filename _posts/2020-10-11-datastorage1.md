@@ -39,17 +39,17 @@ Tablo 1 : [DNA as a digital information storage device: hope or hype?](https://w
 <p align="justify"> Sonuç olarak en iyi sonuçlar için çalışmalar devam etmektedir.Bu teknolojinin hayatımıza yeni girmesinden ve gelişim aşamasında olmasından dolayı maliyetli işlemler içerir. Fakat beraberinde çok fazla katkı sağlayacaktır. Çünkü DNA, , son derece düşük enerjili depolama gerektiren, güvenli olan, yedeklemesi kolay , doğanın kalıcı veri deposudur.  </p>
 
 ### Bazı benzer çalışmalar
-1-[Length-Based Encoding of Binary Data in DNA](https://www.researchgate.net/publication/5621864_Length-Based_Encoding_of_Binary_Data_in_DNA)
-2-[Method for Encoding and Decoding Arbitrary Computer Files in DNA Fragments](https://www.ebi.ac.uk/sites/ebi.ac.uk/files/groups/goldman/file2features_2.0.pdf)
-3-[Towards practical, high-capacity, low-maintenance information storage in synthesized DNA](https://www.nature.com/articles/nature11875#citeas)
-4-[High capacity DNA data storage with variable-length Oligonucleotides using repeat accumulate code and hybrid mapping](https://jbioleng.biomedcentral.com/articles/10.1186/s13036-019-0211-2)
+- [Length-Based Encoding of Binary Data in DNA](https://www.researchgate.net/publication/5621864_Length-Based_Encoding_of_Binary_Data_in_DNA)
+- [Method for Encoding and Decoding Arbitrary Computer Files in DNA Fragments](https://www.ebi.ac.uk/sites/ebi.ac.uk/files/groups/goldman/file2features_2.0.pdf)
+- [Towards practical, high-capacity, low-maintenance information storage in synthesized DNA](https://www.nature.com/articles/nature11875#citeas)
+- [High capacity DNA data storage with variable-length Oligonucleotides using repeat accumulate code and hybrid mapping](https://jbioleng.biomedcentral.com/articles/10.1186/s13036-019-0211-2)
 
 
 ### Kaynaklar
-1- Panda, D., Molla, K. A., Baig, M. J., Swain, A., Behera, D., & Dash, M. (2018). DNA as a digital information storage device: hope or hype?. 3 Biotech, 8(5), 239. https://doi.org/10.1007/s13205-018-1246-7
-2- Goldman N.,Method for Encoding and Decoding Arbitrary Computer Files in DNA Fragments,EMBL,Hinxton,UK., 2013.
-3- Örnek proje kodu : https://github.com/allanino/DNA
-4- Nathaniel G. Portney, Yonghui Wu, Lauren K. Quezada, Stefano Lonardi ,Mihrimah Ozkan,(December 18, 2007),Length-Based Encoding of Binary Data in DNA.
-5- Goldman, N., Bertone, P., Chen, S. et al. Towards practical, high-capacity, low-maintenance information storage in synthesized DNA. Nature 494, 77–80 (2013). https://doi.org/10.1038/nature11875
-6- https://www.twistbioscience.com/products/storage
+- Panda, D., Molla, K. A., Baig, M. J., Swain, A., Behera, D., & Dash, M. (2018). DNA as a digital information storage device: hope or hype?. 3 Biotech, 8(5), 239. https://doi.org/10.1007/s13205-018-1246-7
+- Goldman N.,Method for Encoding and Decoding Arbitrary Computer Files in DNA Fragments,EMBL,Hinxton,UK., 2013.
+- Örnek proje kodu : https://github.com/allanino/DNA
+- Nathaniel G. Portney, Yonghui Wu, Lauren K. Quezada, Stefano Lonardi ,Mihrimah Ozkan,(December 18, 2007),Length-Based Encoding of Binary Data in DNA.
+- Goldman, N., Bertone, P., Chen, S. et al. Towards practical, high-capacity, low-maintenance information storage in synthesized DNA. Nature 494, 77–80 (2013). https://doi.org/10.1038/nature11875
+- https://www.twistbioscience.com/products/storage
 
