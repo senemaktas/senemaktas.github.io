@@ -20,7 +20,7 @@ And here's some *italics*
 
 Here's some **bold** text.
 
-What about a [link](WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.html)?
+What about a [link](https://github.com/senemaktas/senemaktas.github.io/WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.html)?
 
 Here's a bulleted list:
 * First item
