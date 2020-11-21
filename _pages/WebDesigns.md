@@ -11,26 +11,9 @@ header:
 I enjoy designing websites in different styles. Trying to change to improve each design. 
 Information on each design can be found below. You can view the pages by clicking the links.
 
-## Representation With Table- Sakura Ichıka
+## 1- Representation With Table- Sakura Ichıka
 
-
-
-
-And here's some *italics*
-
-Here's some **bold** text.
-
-What about a [link](https://github.com/senemaktas/senemaktas.github.io/WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.html)
-
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
+What about a [link]:https://github.com/senemaktas/senemaktas.github.io/WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.html
 
 
 Here's an image:
