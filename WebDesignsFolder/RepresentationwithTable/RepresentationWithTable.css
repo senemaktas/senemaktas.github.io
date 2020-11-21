@@ -1,0 +1,335 @@
+/* Style the header */
+header {
+  background-color: rgb(206, 18, 127); 
+  /*background:linear-gradient(rgb(252, 26, 120),rgb(72, 45, 168)); 
+  background:linear-gradient(rgb(206, 18, 127),rgb(234, 241, 237));*/
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+  width: 100%;
+}
+
+.logocss{
+  border-radius:25px;
+}
+
+ /* Style the navbar */
+ #navbar {
+  overflow: hidden;
+  background-color: rgb(3, 3, 3);
+}
+
+/* Navbar links */
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation
+ bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 60px;
+} 
+
+.topnav-right {
+  float: right;
+}
+
+body{
+    background-color: azure;
+    height: auto;
+    margin: 0;  
+}
+
+table{
+    width: 600px;
+    margin-left: 25px;
+    margin-top: 45px;
+}
+
+input{
+  background-color:azure; 
+  color:black;
+ }
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+.sendmessage{
+  background-image: url("img/flower.png");
+  background-size: cover;
+  height: 300px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  margin-top: 65%;
+  color:white;
+}
+
+#textareaid{
+margin-left:  50%;
+margin-top: -12%;
+margin-right: 20%;
+overflow: auto;
+width: 400px;
+height:100%;
+border-radius: 15px 50px; 
+}
+
+.informations{
+  margin-left:  20%;
+}
+
+.vl {
+  border-left: 4px solid rgb(206, 18, 127);
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  margin-left: 15px;
+  margin-right: 25px;
+  padding-left: 20px;
+  margin-top: 700px;
+  top: 0;
+}
+
+.vr {
+  height: 500px;
+  position: absolute;
+  right: 50%;
+  margin-left: 20px;
+  margin-right: 25px;
+  margin-top: 700px;
+  top: 0;
+}
+
+.slideshowimage {
+  height: 300px;
+  width: 100%;
+  margin-top: 550px;
+  margin-bottom:-50%;
+  padding-bottom: 50px;
+}
+.mySlides{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  height: 300px;
+  width: 35%;
+  display: none;  
+}
+
+#socialMedia{
+  width: 100%;
+  height: 250px;
+  background-color: rgb(236, 227, 216);
+  padding-bottom: 100px;
+  opacity: 1.0;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  bottom: 100px;
+  opacity: 1.0;
+  margin: 5px 2px;
+  border-radius:70%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  margin-left: 480px;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}
+
+#footercss{
+  position:fixed;
+  background-color:rgb(206, 18, 127);
+  text-align: center;
+  color: white;
+  width: 100%;
+  height: 80px;
+  bottom:0;
+  font-weight:bold;
+}
+
+/*HTML Link Colors : https://www.w3schools.com/html/html_links_colors.asp 
+a:link {
+    color: rgb(25, 190, 25);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: rgb(236, 31, 31);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  } */
+ 
+/* Zoom on Hover : https://www.w3schools.com/howto/howto_css_zoom_hover.asp*/
+* {
+    box-sizing: border-box;
+  }
+  .zoom {
+    transition: transform .2s;
+    width: 257px;
+    height: 260px;
+    margin: 0 auto;
+    background-image: url("img/profilehtml.png");
+  }
+
+  .zoom:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+  }
+
+
+  * {
+    box-sizing: border-box;
+  }
+  
+ .bigimages{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+ }
+
+
+  /* Position the image container (needed to position the left and right arrows) */
+  .container {
+    height: 300px;
+    width: 100%;
+    margin-top: 550px;
+    margin-bottom:-50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+  }
+  .smallcontainer {
+    height: 300px;
+    width: 100%;
+    margin-top: 600px;
+    margin-bottom:-50%;
+    padding-bottom: -10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+  }
+   
+  /* Add a pointer when hovering over the thumbnail images */
+  .cursor {
+    cursor: pointer;
+  }
+  
+  /* Next & previous buttons */
+  .prev,
+  .next {
+    cursor: pointer;
+    top: 40%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover,
+  .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  
+  /* Number text (1/3 etc) */
+  .numbertext {
+    color:  rgb(255, 32, 162);
+    font-size: 20px;
+    font-weight: bold;
+    padding: 8px 12px;
+    position: absolute;
+    top: 70;
+  }
+  
+  /* Container for image text */
+  .caption-container {
+    text-align: center;
+    background-color: #222;
+    padding: 2px 16px;
+    color: white;
+  }
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Six columns side by side */
+  .column {
+    float: left;
+    width: 16.66%;
+  }
+  
+  /* Add a transparency effect for thumnbail images */
+  .demo {
+    opacity: 0.6;
+  }
+  
+  .active,
+  .demo:hover {
+    opacity: 1;
+  }
