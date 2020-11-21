@@ -15,6 +15,3 @@ Information on each design can be found below. You can view the pages by clickin
 
 [link](../WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.html)
 
-
-[link](_pages/RepresentationWithTable.html)
-
