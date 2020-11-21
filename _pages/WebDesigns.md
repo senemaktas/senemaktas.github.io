@@ -13,5 +13,8 @@ Information on each design can be found below. You can view the pages by clickin
 
 ## 1- Representation With Table- Sakura Ichıka
 
-[link](https://github.com/senemaktas/senemaktas.github.io/WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.html)
+[link](../WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.html)
+
+
+[link](_pages/RepresentationWithTable.html)
 
