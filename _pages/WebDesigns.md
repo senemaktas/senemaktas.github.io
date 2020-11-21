@@ -20,7 +20,7 @@ And here's some *italics*
 
 Here's some **bold** text.
 
-What about a [link](https://github.com/senemaktas/senemaktas.github.io/WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.html)?
+What about a [link](https://github.com/senemaktas/senemaktas.github.io/WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.html)
 
 Here's a bulleted list:
 * First item
@@ -37,4 +37,4 @@ Here's an image:
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
 
 Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
+![alt]({{ (https://github.com/senemaktas/senemaktas.github.io/WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.html) }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
