@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8"/>
     <!-- Setting the viewport to make your website look good on all devices -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="img/panda.png"/>
     <title>Application with table</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -103,84 +103,61 @@
     </ol> <br/>
     </div>
 
-
-<!-- image slede show - automated 
-  <div class="slideshowimage">
-    <img class="mySlides" src="img/im1.png" style="width:100%">
-    <img class="mySlides" src="img/im2.png" style="width:100%">
-    <img class="mySlides" src="img/im3.png" style="width:100%">
-    <img class="mySlides" src="img/im4.png" style="width: 100%;">
-    <img class="mySlides" src="img/im5.png" style="width: 100%;">
-  </div> -->
-
-   <!-- Container for the image gallery -->
+<!-- Container for the image gallery -->
 <div class="container">
   <!-- Full-width images with number text -->
-  <div class="mySlides">
     <div class="numbertext">1 / 6</div>
-      <img  class="bigimages" src="img/im1.png" style="width:100%">
-  </div>
+      <img  class="mySlides" src="img/im1.png" style="width:100%">
 
-  <div class="mySlides">
     <div class="numbertext">2 / 6</div>
-      <img class="bigimages" src="img/im2.png" style="width:100%">
-  </div>
+      <img class="mySlides" src="img/im2.png" style="width:100%">
 
-  <div class="mySlides">
     <div class="numbertext">3 / 6</div>
-      <img class="bigimages" src="img/im3.png" style="width:100%">
-  </div>
+      <img class="mySlides" src="img/im3.png" style="width:100%">
 
-  <div class="mySlides">
     <div class="numbertext">4 / 6</div>
-      <img class="bigimages" src="img/im4.png" style="width:100%">
-  </div>
+      <img class="mySlides" src="img/im4.png" style="width:100%">
 
-  <div class="mySlides">
     <div class="numbertext">5 / 6</div>
-      <img class="bigimages" src="img/im5.png" style="width:100%">
-  </div>
+      <img class="mySlides" src="img/im5.png" style="width:100%">
 
-  <div class="mySlides">
   <div class="numbertext">6 / 6</div>
-  <img class="bigimages" src="img/im6.jpg" style="width:100%">
-</div>
+  <img class="mySlides" src="img/im6.jpg" style="width:100%">
 
   <!-- Next and previous buttons -->
+  <div class="mySlides"> 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a></div>
+</div>  
 
-</div> 
-
-<div class="smallcontainer">
+  <div class="smallcontainer">
   <!-- Image text -->
   <div class="caption-container">
-    <p id="caption"></p>
-  </div>
+  <p id="caption"></p> </div>
 
   <!-- Thumbnail images -->
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="img/im1.png" style="width:100%" onclick="currentSlide(1)" alt="Japanese 1">
+      <img id="smallim" class="demo cursor" src="img/im1.png" style="width:100%" onclick="currentSlide(1)" alt="Japanese 1">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img/im2.png" style="width:100%" onclick="currentSlide(2)" alt="Japanese 2">
+      <img id="smallim" class="demo cursor" src="img/im2.png" style="width:100%" onclick="currentSlide(2)" alt="Japanese 2">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img/im3.png" style="width:100%" onclick="currentSlide(3)" alt="Japanese 3">
+      <img id="smallim" class="demo cursor" src="img/im3.png" style="width:100%" onclick="currentSlide(3)" alt="Japanese 3">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img/im4.png" style="width:100%" onclick="currentSlide(4)" alt="Japanese 4">
+      <img id="smallim" class="demo cursor" src="img/im4.png" style="width:100%" onclick="currentSlide(4)" alt="Japanese 4">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img/im5.png" style="width:100%" onclick="currentSlide(5)" alt="Japanese 5">
+      <img id="smallim" class="demo cursor" src="img/im5.png" style="width:100%" onclick="currentSlide(5)" alt="Japanese 5">
     </div>
     <div class="column">
-      <img class="demo cursor" src="img/im6.jpg" style="width:100%" onclick="currentSlide(6)" alt="Japanese 6">
+      <img id="smallim" class="demo cursor" src="img/im6.jpg" style="width:100%" onclick="currentSlide(6)" alt="Japanese 6">
     </div>
   </div>
 </div> 
-</div>
+
 
   <!--message part-->
    <div class="sendmessage" id="contact">
