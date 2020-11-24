@@ -15,3 +15,5 @@ Information on each design can be found below. You can view the pages by clickin
 
 [link](../WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.html)
 
+<img src="../WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.png" alt="linearly separable data">
+
