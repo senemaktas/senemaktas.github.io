@@ -32,9 +32,6 @@ function carousel() {
   setTimeout(carousel, 2000); // Change image every 2 seconds
 }
 
-
-
-
 var slideIndex = 1;
 showSlides(slideIndex);
 
