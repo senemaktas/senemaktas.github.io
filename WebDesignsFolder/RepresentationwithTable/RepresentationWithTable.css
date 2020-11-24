@@ -58,6 +58,7 @@ table{
     width: 600px;
     margin-left: 350px;
     margin-top: 45px;
+    border-radius: 10px;
 }
 
 input{
