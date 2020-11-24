@@ -98,7 +98,7 @@ border-radius: 15px 50px;
 }
 
 .vl {
-  border-left: 4px solid rgb(206, 18, 127);
+  border-left: 4px solid rgb(0, 0, 0);
   height: 500px;
   position: absolute;
   left: 50%;
