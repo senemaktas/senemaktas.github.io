@@ -15,5 +15,10 @@ Information on each design can be found below. You can view the pages by clickin
 
 [link](../WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.html)
 
-<img src="../WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.png" alt="linearly separable data">
+<img src="../WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.png" alt="RepresentationWithTable">
 
+## 2- Registeration - Adventure Of The World
+
+[link](../WebDesignsFolder/Registration/registeration.html)
+
+<img src="../WebDesignsFolder/Registration/registeration.png" alt="registeration">
