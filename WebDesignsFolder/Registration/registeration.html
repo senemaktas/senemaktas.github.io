@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8"/>
+	<!-- Setting the viewport to make your website look good on all devices -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="registeration.css"/>
+    <link rel="shortcut icon" href="img/aibü.ico" />
+    <title>Registeration</title>
+</head>
+
+	
+<body >
+
+    <header class="headercss">
+    <img class="logocss" width="150" height="150"  src="img/aibü.ico" alt="logo"/>
+    <div class="baslikcss" border-position="center">
+    <h2><p>ADVENTURE OF THE  WORLD</p></h2>
+    <h4><p> &nbsp &nbsp &nbsp “The traveler travels not to arrive somewhere, but to explore.”</p></h4>
+    </div>
+    </header>
+    
+	<div class="navtek"><a href="https://www.w3schools.com/">Home</a></div>
+    <div class="navtek"><a href="https://www.w3schools.com/">Downloads</a></div>
+	<div class="navtek"><a href="https://www.w3schools.com/">Blog</a></div>
+	<div class="navtek"><a href="https://www.m5bilisim.com" target="_blank">News</a></div>
+    <div class="navtek"><a href="https://www.google.com" target="_blank">Contact</a></div>
+	
+	<div class="govde">
+      <div class="govdecerceve" border height="700px"> 
+	    <div class="kayitolbaslik">
+		<p>Sign up</p>
+		</div>
+	        <div class="bilgigovde">
+			
+		    <form action="" method="" id="form" name="form1" onsubmit="return onayla()">
+			<br/>
+		    Name:&nbsp &nbsp <input type="text" name="isim" maxlength="20"  required/> &nbsp <br/><br/>
+			
+			Surname:&nbsp &nbsp <input type="text" name="soyad" maxlength="20"  required /> &nbsp <br/><br/>
+			
+			Email:&nbsp &nbsp <input type="text" name="eposta" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required /> 
+			&nbsp <br/><br/>
+			
+			User name:&nbsp &nbsp <input type="text" name="kuladi"  required /> &nbsp <br/><br/>
+			
+		    Password:&nbsp &nbsp <input type="password" name="parola"  required /> &nbsp <br/><br/>
+			
+			Team:&nbsp &nbsp <select name="teams"  required>
+			<option value="RealMadrid" selected="selected">Real Madrid CF</option>
+			<option value="Barcelona">FC Barcelona</option>
+			<option value="AtleticoMadrid">Atletico Madrid </option>          
+			</select> &nbsp 
+			<br/><br/>
+			
+			Gender:
+			<input type="radio" name="Gender" value="Woman" checked="checked" /><font size="4px">Woman </font>
+			<input type="radio" name="Gender" value="Man"/><font size="4px">Man</font>
+			<input type="radio" name="Gender" value="Pass"/><font size="4px">Pass</font>&nbsp <br/><br/><br/>
+			<input type="reset" value="Clean"/> &nbsp &nbsp &nbsp &nbsp
+			<input  id="submitid" type="submit"  value="Submit"/> &nbsp &nbsp
+		    </form>
+         
+			</div>
+			
+			<div>
+			<img class="resim" src="img/photo1.jpg" alt="spain1"/>
+			<img class="resim" src="img/photo2.jpg" alt="spain2"/>
+			<img class="resim" src="img/photo3.jpg" alt="spain3"/>
+			<img class="resim" src="img/photo4.jpg" alt="spain4"/>
+			<p align="justify" class="cerceve"> &nbsp &nbsp Lorem ipsum dolor sit amet, consectetur
+			adipiscing elit. Suspendisse ornare magna fermentum ultrices auctor. Duis ullamcorper eu
+			felis eget tincidunt. Vestibulum consectetur placerat est quis viverra. Ut placerat a nisl
+			in finibus. Sed nec dapibus ante, vel dapibus est.</p>
+			</div>
+			
+         </div>
+		 
+		 
+	     <div id="disPopId" class="modal">
+         <div class="modal-icerik">
+         <span class="close">&times;</span>
+         <p style=" position:center;">KAYIT BAŞARILI!</p>
+		 </div>
+         </div>
+		
+		 <script src="registeration.js"></script>
+  		  
+</body>
+</html>
