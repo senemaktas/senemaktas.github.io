@@ -31,3 +31,5 @@ Sources:
 - https://codepen.io/NamiqNamaz/pen/QZYyEq
 - https://mdbootstrap.com/docs/jquery/navigation/compositions/
 - https://mdbootstrap.com/snippets/jquery/temp/2746467?action=prism_export
+- https://mdbootstrap.com/plugins/jquery/gallery/
+- https://mdbootstrap.com/snippets/jquery/temp/2746472?action=prism_export
