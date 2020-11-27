@@ -13,23 +13,29 @@ Information on each design can be found below. You can view the pages by clickin
 
 ## 1- Representation With Table- Sakura Ichıka
 
-[link](../WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.html)
+- [Web page](../WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.html)
+- [Codes]()
+- <h4> Explanation: </h4>  
 
 <img src="../WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.png" alt="RepresentationWithTable">
 
 ## 2- Registeration - Adventure Of The World
 
-[link](../WebDesignsFolder/Registration/registeration.html)
+- [Web page](../WebDesignsFolder/Registration/registeration.html)
+- [Codes]()
+- <h4> Explanation: </h4>  
 
 <img src="../WebDesignsFolder/Registration/registeration.png" alt="registeration">
 
 ## 3- 
-
-Sources: 
-- https://mdbootstrap.com/snippets/jquery/ascensus/28?action=full_screen_mode#css-tab-view
-- https://www.mockplus.com/blog/post/bootstrap-4-footer-template
-- https://codepen.io/NamiqNamaz/pen/QZYyEq
-- https://mdbootstrap.com/docs/jquery/navigation/compositions/
-- https://mdbootstrap.com/snippets/jquery/temp/2746467?action=prism_export
-- https://mdbootstrap.com/plugins/jquery/gallery/
-- https://mdbootstrap.com/snippets/jquery/temp/2746472?action=prism_export
+- [Web page]()
+- [Code]()
+- <h4> Explanation: </h4>  
+- <h5> Sources: </h5>
+  - https://mdbootstrap.com/snippets/jquery/ascensus/28?action=full_screen_mode#css-tab-view
+  - https://www.mockplus.com/blog/post/bootstrap-4-footer-template
+  - https://codepen.io/NamiqNamaz/pen/QZYyEq
+  - https://mdbootstrap.com/docs/jquery/navigation/compositions/
+  - https://mdbootstrap.com/snippets/jquery/temp/2746467?action=prism_export
+  - https://mdbootstrap.com/plugins/jquery/gallery/
+  - https://mdbootstrap.com/snippets/jquery/temp/2746472?action=prism_export
