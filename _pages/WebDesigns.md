@@ -27,7 +27,7 @@ Information on each design can be found below. You can view the pages by clickin
 
 <img src="../WebDesignsFolder/Registration/registeration.png" alt="registeration">
 
-## 3- 
+## 3- Blog Landing Page - Music is Life
 - [Web page](../WebDesignsFolder/BlogLandingPage/BlogLandingPage.html)
 - [Code](https://github.com/senemaktas/Web-FrontEnd/tree/master/BlogLandingPage)
 - <h4> Explanation: </h4>  
