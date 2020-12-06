@@ -14,7 +14,7 @@ Information on each design can be found below. You can view the pages by clickin
 ## 1- Representation With Table- Sakura Ichıka
 
 - [Web page](../WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.html)
-- [Codes]()
+- [Codes](https://github.com/senemaktas/Web-FrontEnd/tree/master/RepresentationWithTable)
 - <h4> Explanation: </h4>  
 
 <img src="../WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.png" alt="RepresentationWithTable">
@@ -22,7 +22,7 @@ Information on each design can be found below. You can view the pages by clickin
 ## 2- Registeration - Adventure Of The World
 
 - [Web page](../WebDesignsFolder/Registration/registeration.html)
-- [Codes]()
+- [Codes](https://github.com/senemaktas/Web-FrontEnd/tree/master/Registeration)
 - <h4> Explanation: </h4>  
 
 <img src="../WebDesignsFolder/Registration/registeration.png" alt="registeration">
