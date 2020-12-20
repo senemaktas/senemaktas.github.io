@@ -33,3 +33,13 @@ Information on each design can be found below. You can view the pages by clickin
 - <h4> Explanation: </h4>  
 
 <img src="../WebDesignsFolder/BlogLandingPage/blogpage.jpg" alt="blogpage">
+
+
+## 4- Login & Admin Panel Pages
+- [Web page](../WebDesignsFolder/AdminPanel/LoginPanel.html)
+- [Code](https://github.com/senemaktas/Web-FrontEnd/tree/master/AdminPanel)
+- <h4> Explanation: </h4>  
+
+<img src="../WebDesignsFolder/AdminPanel/LoginPanel.png" alt="LoginPanel">
+
+<img src="../WebDesignsFolder/AdminPanel/AdminPanelPage.png" alt="AdminPanelPage">
