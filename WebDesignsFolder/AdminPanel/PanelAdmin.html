@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>Admin Panel Page</title>
+    <link rel="stylesheet" href="PanelAdmin.css"/>
+    <link rel="shortcut icon" href="img/aibü.ico" />
+	<script type="text/javascript"src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.js"></script>  
+
+</head>
+
+<body>
+
+  <table class="admin" border="2" cellpadding="10" >
+
+   <tr bgcolor="#99c2ff" width="700px" height="60px" >
+   
+  <th></th>
+	<th>PICTURES </th>
+	<th>NEWS HEADER</th>
+	<th>DETAILS</th>
+   
+     </tr>
+
+   <tr width="950px" height="180px" id="satir" onclick="Haberler();">
+   <td bgcolor="#99c2ff"> 1 </td>
+   <td bgcolor="#cce0ff" ><img src="img/zekiveajda.jpg" class="resimcss" alt="zeki müren ve ajda pekkan" /></td>
+   <td bgcolor="#99c2ff" class="yazi">Zeki Müren and Ajda Pekkan were  <br/> also invited to Kırkpınar!</td>
+   <td bgcolor="#cce0ff" class="yazi">Edirne and Kemer <br/> Mayor the previous day ... <br/></td>
+   </tr>
+		   
+		   
+   <tr bgcolor="#99c2ff" width="950px" height="180px" id="satir" onclick="Haberler();">
+   <td>2</td>
+   <td><img src="img/cemadrian.jpg" class="resimcss" alt="cem adrian" /></td>
+   <td class="yazi">Cem Adrian, will give a concert in Izmir</td>
+   <td class="yazi">Cem Adrian,<br/>unforgettable folk songs<br/>consisting of 11 works</td>
+   </tr>
+
+
+   <tr width="950px" height="180px" id="satir" onclick="Haberler();" >
+   <td bgcolor="#99c2ff"> 3</td>
+   <td  bgcolor="#cce0ff"> <img src="img/djtomiie.jpg" class="resimcss" alt="dj Tomiie" /> </td>
+   <td bgcolor="#99c2ff" class="yazi">Legend DJ Tomiie, </td>
+   <td bgcolor="#cce0ff" class="yazi">He will meet with <br/>electronic music fans</td>
+   </tr>  
+
+  </table>
+ <button class="butoncss" onclick="yenile();"/> REFRESH </button> 
+ <button class="butoncss" /> EXIT </button> 
+
+<script src="Panel.js"></script>
+</body>
+</html>
