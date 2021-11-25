@@ -4,7 +4,7 @@ title: " "
 permalink: /Publications/
 author_profile: true
 header:
-  image: "/images/webdesigns.png"
+  image: "/images/"
   
 ---
 
