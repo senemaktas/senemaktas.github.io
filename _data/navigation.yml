@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Publications"
+    url: /Publications/
   - title: "Posts"
     url: /machine-learning/
   - title: "Projects"
