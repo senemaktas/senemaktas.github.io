@@ -27,7 +27,7 @@ to detect phase from body sway. </p>
 
 - Computer Vision
 
-<img src="../WebDesignsFolder/Publications/BeatEstimation.png" alt="BeatEstimation">
+<img src="../WebDesignsFolder/Publications/BeatEstimation.png" alt="BeatEstimation"  width="700" height="400">
 
 ### 3- Comparison of Neural Network Models for Nostalgic Sentiment Analysis of YouTube Comments
 
@@ -35,7 +35,8 @@ to detect phase from body sway. </p>
 - Natural Language Processing
 <p>
 <img src="../WebDesignsFolder/Publications/NostalgicSentiment1.png" alt="NostalgicSentiment1" width="500" height="300">
-<img src="../WebDesignsFolder/Publications/NostalgicSentiment2.png" alt="NostalgicSentiment1" width="500" height="300" style="float:left"> </p>
+<img src="../WebDesignsFolder/Publications/NostalgicSentiment2.png" alt="NostalgicSentiment1" width="500" height="300" style="float:left"> 
+</p>
 
 ### 4- Soon
 - [Paper Link]
