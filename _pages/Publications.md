@@ -8,10 +8,6 @@ header:
   
 ---
 
-I have several journal and conferences publications on Computer Vision and Natural Language Processesing.
-I contunie academic studies beside my professionel activities. 
-Information on each publications can be found below. You can view them by clicking the links.
-
 ## 1- Computing Turkish Movie Stars Screen Time Using Deep Convolutional Networks
 
 - [Publication](https://www.researchgate.net/publication/353326673_Computing_Turkish_Movie_Stars_Screen_Time_Using_Deep_Convolutional_Networks)
