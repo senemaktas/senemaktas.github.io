@@ -14,7 +14,7 @@ header:
 Presented the research at a conference through oral presentation by Senem Aktaş. Studied VGG16, InceptionV3, Xception, MobileNet, and DenseNet deep learning models. </p>
 
 - Figure 1. Examples of frames from movies
-<img src="../WebDesignsFolder/Publications/MovieScreenTime.png" alt="MovieScreenTime">
+<img src="../WebDesignsFolder/Publications/MovieScreenTime.png" alt="MovieScreenTime" width="700" height="200">
 
 
 ### 2- Beat Estimation From Musician Visual Cues
