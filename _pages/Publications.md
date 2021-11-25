@@ -35,8 +35,7 @@ to detect phase from body sway. </p>
 - Natural Language Processing
 
 <img src="../WebDesignsFolder/Publications/NostalgicSentiment1.png" alt="NostalgicSentiment1" width="400" height="400">
-<img src="../WebDesignsFolder/Publications/NostalgicSentiment2.png" alt="NostalgicSentiment1" width="400" height="400">
-
+<img src="../WebDesignsFolder/Publications/NostalgicSentiment2.png" alt="NostalgicSentiment1" width="400" height="400" style="float:left">
 
 ### 4- Soon
 - [Paper Link]
