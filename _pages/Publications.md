@@ -7,7 +7,6 @@ header:
   image: "/images/"
   
 ---
-
 ### 1- Computing Turkish Movie Stars Screen Time Using Deep Convolutional Networks
 
 - [Paper Link](https://www.researchgate.net/publication/353326673_Computing_Turkish_Movie_Stars_Screen_Time_Using_Deep_Convolutional_Networks)
@@ -35,8 +34,8 @@ to detect phase from body sway. </p>
 - [Paper Link](https://dergipark.org.tr/en/download/article-file/1506505)
 - Natural Language Processing
 
-<img src="../WebDesignsFolder/Publications/NostalgicSentiment1.png" alt="NostalgicSentiment1">
-<img src="../WebDesignsFolder/Publications/NostalgicSentiment2.png" alt="NostalgicSentiment1">
+<img src="../WebDesignsFolder/Publications/NostalgicSentiment1.png" alt="NostalgicSentiment1" width="400" height="400">
+<img src="../WebDesignsFolder/Publications/NostalgicSentiment2.png" alt="NostalgicSentiment1" width="400" height="400">
 
 
 ### 4- Soon
