@@ -37,8 +37,8 @@ and Image Processing. Presented the research at a conference through oral presen
 - <h4> Explanation: </h4>  
   - Natural Language Processing
 
-<img src="../WebDesignsFolder/Publications/NostalgicSentiment1.jpg" alt="NostalgicSentiment1">
-<img src="../WebDesignsFolder/Publications/NostalgicSentiment2.jpg" alt="NostalgicSentiment1">
+<img src="../WebDesignsFolder/Publications/NostalgicSentiment1.png" alt="NostalgicSentiment1">
+<img src="../WebDesignsFolder/Publications/NostalgicSentiment2.png" alt="NostalgicSentiment1">
 
 
 ## 4- Soon
