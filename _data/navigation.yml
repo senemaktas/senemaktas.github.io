@@ -4,7 +4,5 @@ main:
     url: /Publications/
   - title: "Posts"
     url: /machine-learning/
-  - title: "Projects"
-    url: /projects/
   - title: "Web Designs"
     url: /web_designs/
