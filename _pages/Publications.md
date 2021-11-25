@@ -34,8 +34,8 @@ to detect phase from body sway. </p>
 - [Paper Link](https://dergipark.org.tr/en/download/article-file/1506505)
 - Natural Language Processing
 <p>
-<img src="../WebDesignsFolder/Publications/NostalgicSentiment1.png" alt="NostalgicSentiment1" width="350" height="200" style="float:right">
-<img src="../WebDesignsFolder/Publications/NostalgicSentiment2.png" alt="NostalgicSentiment1" width="350" height="200"> 
+<img src="../WebDesignsFolder/Publications/NostalgicSentiment1.png" alt="NostalgicSentiment1" width="250" height="200" style="float:right">
+<img src="../WebDesignsFolder/Publications/NostalgicSentiment2.png" alt="NostalgicSentiment1" width="250" height="200"> 
 </p>
 
 ### 4- Soon
