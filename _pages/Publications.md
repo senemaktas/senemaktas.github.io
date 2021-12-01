@@ -38,6 +38,22 @@ to detect phase from body sway. </p>
 <img src="../WebDesignsFolder/Publications/NostalgicSentiment2.png" alt="NostalgicSentiment1" width="300" height="200"> 
 </p>
 
+
+<p style='text-align:justify'> </p>
+
+<h4> 3- Before - After Preprocessing Dataset </h4>
+
+<img src="images/dataset.jpg" alt="before"	width="900" height="200" /> 
+
+<h3> System Architecture </h3>
+<p style='text-align:justify'> </p>
+
+<img src="../WebDesignsFolder/Publications/mimari.png" alt="before"	width="700" height="200" /> 
+
+<h3> Result </h3>
+<img src="../WebDesignsFolder/Publications/accuracy_chart_nlp1.png" alt="accuracy"	width="300" height="250" /> 
+
+
 ### 4- Soon
 - [Paper Link]
 
