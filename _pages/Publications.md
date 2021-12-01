@@ -10,8 +10,8 @@ header:
 ### 1- Computing Turkish Movie Stars Screen Time Using Deep Convolutional Networks
 
 - [Paper Link](https://www.researchgate.net/publication/353326673_Computing_Turkish_Movie_Stars_Screen_Time_Using_Deep_Convolutional_Networks)
-<p style="text-align:justify"> Computer Engineering Undergraduate final project. Gained experience in Computer Vision and Image Processing.
-Presented the research at a conference through oral presentation by Senem Aktaş. Studied VGG16, InceptionV3, Xception, MobileNet, and DenseNet deep learning models. </p>
+<p style="text-align:justify"> <small> Computer Engineering Undergraduate final project. Gained experience in Computer Vision and Image Processing.
+Presented the research at a conference through oral presentation by Senem Aktaş. Studied VGG16, InceptionV3, Xception, MobileNet, and DenseNet deep learning models. </small> </p>
 
 - Figure 1. Examples of frames from movies
 <img src="../WebDesignsFolder/Publications/MovieScreenTime.png" alt="MovieScreenTime" width="700" height="200">
@@ -37,11 +37,11 @@ to detect phase from body sway. </p>
 
 <p style='text-align:justify'> </p>
 
-<h4> Before - After Preprocessing Dataset </h4>
+<h6> Before - After Preprocessing Dataset </h6>
 
 <img src="../WebDesignsFolder/Publications/dataset.jpg" alt="before"	width="900" height="200" /> 
 
-<h4> System Architecture </h4> 
+<h6> System Architecture </h6> 
 <p style='text-align:justify'> </p>
 <img src="../WebDesignsFolder/Publications/mimari.png" alt="before"	width="700" height="200" style="float:right"> 
 <!-- <img src="../WebDesignsFolder/Publications/accuracy_chart_nlp1.png" alt="accuracy"	width="300" height="250"> -->
