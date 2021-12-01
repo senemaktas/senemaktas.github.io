@@ -33,11 +33,6 @@ to detect phase from body sway. </p>
 
 - [Paper Link](https://dergipark.org.tr/en/download/article-file/1506505) - Natural Language Processing - Journal
 - Postalcioglu, S , Aktas, S . (2020). Comparison of Neural Network Models for Nostalgic Sentiment Analysis of YouTube Comments . Hittite Journal of Science and Engineering , 7 (3) , 215-221 . DOI: 10.17350/HJSE19030000191
-<!--- 
-<p>
-<img src="../WebDesignsFolder/Publications/NostalgicSentiment1.png" alt="NostalgicSentiment1" width="300" height="200" style="float:right">
-<img src="../WebDesignsFolder/Publications/NostalgicSentiment2.png" alt="NostalgicSentiment1" width="300" height="200"> 
-</p>  --->
 
 
 <p style='text-align:justify'> </p>
