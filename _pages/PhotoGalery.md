@@ -4,42 +4,25 @@ title: " "
 permalink: /web_designs/
 author_profile: true
 header:
-  image: "/images/webdesigns.png"
+  image: 
   
 ---
 
-I enjoy designing websites in different styles. Trying to change to improve each design. 
-Information on each design can be found below. You can view the pages by clicking the links.
+Some pictures that I took
 
-## 1- Representation With Table- Sakura Ichıka
+## Istanbul
 
-- [Web page](../WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.html)
-- [Codes](https://github.com/senemaktas/Web-FrontEnd/tree/master/RepresentationWithTable)
-- <h4> Explanation: </h4>  
+<img src="../WebDesignsFolder/.." alt="RepresentationWithTable">
 
-<img src="../WebDesignsFolder/RepresentationwithTable/RepresentationWithTable.png" alt="RepresentationWithTable">
+## Aydın - Kuşadası
 
-## 2- Registeration - Adventure Of The World
+<img src="../WebDesignsFolder/.." alt="RepresentationWithTable">
 
-- [Web page](../WebDesignsFolder/Registration/registeration.html)
-- [Codes](https://github.com/senemaktas/Web-FrontEnd/tree/master/Registeration)
-- <h4> Explanation: </h4>  
+## Çanakkale
 
-<img src="../WebDesignsFolder/Registration/registeration.png" alt="registeration">
-
-## 3- Blog Landing Page - Music is Life
-- [Web page](../WebDesignsFolder/BlogLandingPage/BlogLandingPage.html)
-- [Code](https://github.com/senemaktas/Web-FrontEnd/tree/master/BlogLandingPage)
-- <h4> Explanation: </h4>  
-
-<img src="../WebDesignsFolder/BlogLandingPage/blogpage.jpg" alt="blogpage">
+<img src="../WebDesignsFolder/.." alt="RepresentationWithTable">
 
 
-## 4- Login & Admin Panel Pages
-- [Web page](../WebDesignsFolder/AdminPanel/LoginPanel.html)
-- [Code](https://github.com/senemaktas/Web-FrontEnd/tree/master/AdminPanel)
-- <h4> Explanation: </h4>  
+## Karabük - Safranbolu
 
-<img src="../WebDesignsFolder/AdminPanel/LoginPanel.png" alt="LoginPanel">
-
-<img src="../WebDesignsFolder/AdminPanel/AdminPanelPage.png" alt="AdminPanelPage">
+<img src="../WebDesignsFolder/.." alt="RepresentationWithTable">
