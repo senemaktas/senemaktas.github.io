@@ -31,12 +31,13 @@ to detect phase from body sway. </p>
 
 ### 3- Comparison of Neural Network Models for Nostalgic Sentiment Analysis of YouTube Comments
 
-- [Paper Link](https://dergipark.org.tr/en/download/article-file/1506505)
-- Natural Language Processing
+- [Paper Link](https://dergipark.org.tr/en/download/article-file/1506505) - Natural Language Processing - Journal
+- Postalcioglu, S , Aktas, S . (2020). Comparison of Neural Network Models for Nostalgic Sentiment Analysis of YouTube Comments . Hittite Journal of Science and Engineering , 7 (3) , 215-221 . DOI: 10.17350/HJSE19030000191
+<!--- 
 <p>
 <img src="../WebDesignsFolder/Publications/NostalgicSentiment1.png" alt="NostalgicSentiment1" width="300" height="200" style="float:right">
 <img src="../WebDesignsFolder/Publications/NostalgicSentiment2.png" alt="NostalgicSentiment1" width="300" height="200"> 
-</p>
+</p>  --->
 
 
 <p style='text-align:justify'> </p>
@@ -45,13 +46,10 @@ to detect phase from body sway. </p>
 
 <img src="../WebDesignsFolder/Publications/dataset.jpg" alt="before"	width="900" height="200" /> 
 
-<h3> System Architecture </h3>
+<h3> System Architecture </h3> 
 <p style='text-align:justify'> </p>
-
-<img src="../WebDesignsFolder/Publications/mimari.png" alt="before"	width="700" height="200" /> 
-
-<h3> Result </h3>
-<img src="../WebDesignsFolder/Publications/accuracy_chart_nlp1.png" alt="accuracy"	width="300" height="250" /> 
+<img src="../WebDesignsFolder/Publications/mimari.png" alt="before"	width="700" height="200" style="float:right"> 
+<!-- <img src="../WebDesignsFolder/Publications/accuracy_chart_nlp1.png" alt="accuracy"	width="300" height="250"> -->
 
 
 ### 4- Soon
