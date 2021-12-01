@@ -43,7 +43,7 @@ to detect phase from body sway. </p>
 
 <h4> 3- Before - After Preprocessing Dataset </h4>
 
-<img src="images/dataset.jpg" alt="before"	width="900" height="200" /> 
+<img src="../WebDesignsFolder/Publications/dataset.jpg" alt="before"	width="900" height="200" /> 
 
 <h3> System Architecture </h3>
 <p style='text-align:justify'> </p>
