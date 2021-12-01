@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: " "
-permalink: /web_designs/
+permalink: /PhotoGalery/
 author_profile: true
 header:
   image: 
