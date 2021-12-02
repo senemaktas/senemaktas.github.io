@@ -35,11 +35,11 @@ to detect phase from body sway. </small> </p>
 
 <p style='text-align:justify'> </p>
 
-<h6> Before - After Preprocessing Dataset </h6>
+<bold> Before - After Preprocessing Dataset </bold>
 
 <img src="../WebDesignsFolder/Publications/dataset.jpg" alt="before"	width="900" height="200" /> 
 
-<h6> System Architecture </h6> 
+<bold> System Architecture </bold> 
 <p style='text-align:justify'> </p>
 <img src="../WebDesignsFolder/Publications/mimari.png" alt="before"	width="700" height="200" style="float:right"> 
 <!-- <img src="../WebDesignsFolder/Publications/accuracy_chart_nlp1.png" alt="accuracy"	width="300" height="250"> -->
