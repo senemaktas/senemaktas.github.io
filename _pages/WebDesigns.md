@@ -8,8 +8,8 @@ header:
   
 ---
 
-I enjoy designing websites in different styles. Trying to change to improve each design. 
-Information on each design can be found below. You can view the pages by clicking the links.
+<p style="text-align:justify"> <small>  I enjoy designing websites in different styles. Trying to change to improve each design. 
+Information on each design can be found below. You can view the pages by clicking the links. </small> </p>
 
 ## 1- Representation With Table- Sakura Ichıka
 
