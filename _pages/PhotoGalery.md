@@ -12,7 +12,8 @@ Some pictures that I took
 
 ## Istanbul
 
-<img src="../WebDesignsFolder/.." alt="RepresentationWithTable">
+<img src="../galery/ist1.jpg" alt="ist1" width="300" height="300">
+<img src="../galery/ist2.jpg" alt="ist2" width="300" height="300">
 
 ## Aydın - Kuşadası
 
