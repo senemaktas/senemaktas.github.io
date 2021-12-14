@@ -30,4 +30,4 @@ Some pictures that I took
 ## Karabük - Safranbolu
 
 <img src="../galery/safranbolu1.jpg" alt="safranbolu1" width="300" height="300" style="float:left">
-
+<img src="../galery/safranbolu2.jpg" alt="safranbolu2" width="300" height="300">
