@@ -16,13 +16,14 @@ header:
 Presented the research at a conference through oral presentation by Senem Aktaş. Studied VGG16, InceptionV3, Xception, MobileNet, and DenseNet deep learning models. </small> </p>
 
 - <p style="text-align:justify"> <small> Figure 1. Examples of frames from movies </small> </p>
-<!--  <img src="../WebDesignsFolder/Publications/MovieScreenTime.png" alt="MovieScreenTime" width="700" height="200"> -->
-<img src="../WebDesignsFolder/Publications/MovieScreenTime1.png" alt="before"	width="250" height="300" style="float:right"> 
-<img src="../WebDesignsFolder/Publications/MovieScreenTime2.png" alt="MovieScreenTime" width="250" height="300">
+<img src="../WebDesignsFolder/Publications/MovieScreenTime1.png" alt="before"	width="265" height="300" style="float:right"> 
+<img src="../WebDesignsFolder/Publications/MovieScreenTime2.png" alt="MovieScreenTime" width="265" height="300">
 
 ### 2- Beat Estimation From Musician Visual Cues
 
 - [Paper Link](https://www.researchgate.net/publication/352934838_BEAT_ESTIMATION_FROM_MUSICIAN_VISUAL_CUES) - Computer Vision - Confererence
+- [Conference Presentation](https://raw.githubusercontent.com/senemaktas/senemaktas.github.io/main/WebDesignsFolder/Publications/BeatEstimation_presentation.pdf) 
+
 <p style="text-align:justify"> <small> This paper aims to discover a robust technique that can identify musical phases (beats) through
 visual cues derived from a musician’s body movements captured through camera sensors.A multi-instrumental
 dataset was used to carry out a comparative study of two different approaches: (a) motiongram, and (b) pose estimation, 
