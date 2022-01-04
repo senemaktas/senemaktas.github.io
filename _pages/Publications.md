@@ -10,6 +10,18 @@ header:
 ### 1- Computing Turkish Movie Stars Screen Time Using Deep Convolutional Networks
 
 - [Paper Link](https://www.researchgate.net/publication/353326673_Computing_Turkish_Movie_Stars_Screen_Time_Using_Deep_Convolutional_Networks) - Computer Vision - Confererence
+<embed
+    src="http://infolab.stanford.edu/pub/papers/google.pdf#toolbar=0&navpanes=0&scrollbar=0"
+    type="application/pdf"
+    frameBorder="0"
+    scrolling="auto"
+    height="100%"
+    width="100%"
+></embed>
+
+<embed src="https://github.com/senemaktas/Computing-Turkish-Movie-stars-screen-time/blob/30d5e98dbdc7022849a24f578f1884f32e2d1052/Conference_presentation.pdf"
+    type="application/pdf" frameBorder="0" scrolling="auto" height="100%"  width="100%"> </embed>
+
 <p style="text-align:justify"> <small> Computer Engineering Undergraduate final project. Gained experience in Computer Vision and Image Processing.
 Presented the research at a conference through oral presentation by Senem Aktaş. Studied VGG16, InceptionV3, Xception, MobileNet, and DenseNet deep learning models. </small> </p>
 
