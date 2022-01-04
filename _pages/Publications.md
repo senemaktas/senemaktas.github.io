@@ -11,7 +11,7 @@ header:
 
 - [Paper Link](https://www.researchgate.net/publication/353326673_Computing_Turkish_Movie_Stars_Screen_Time_Using_Deep_Convolutional_Networks) - Computer Vision - Confererence
 <embed
-    src="http://infolab.stanford.edu/pub/papers/google.pdf#toolbar=0&navpanes=0&scrollbar=0"
+    src="https://github.com/senemaktas/senemaktas.github.io/blob/e539a528d77af595e0e64cf1674894c82597e5cc/WebDesignsFolder/Publications/Conference_presentation.pdf #toolbar=0&navpanes=0&scrollbar=0"
     type="application/pdf"
     frameBorder="0"
     scrolling="auto"
