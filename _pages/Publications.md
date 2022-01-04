@@ -17,7 +17,8 @@ Presented the research at a conference through oral presentation by Senem Aktaş
 
 - <p style="text-align:justify"> <small> Figure 1. Examples of frames from movies </small> </p>
 <img src="../WebDesignsFolder/Publications/MovieScreenTime.png" alt="MovieScreenTime" width="700" height="200">
-
+<img src="../WebDesignsFolder/Publications/MovieScreenTime1.png" alt="before"	width="300" height="400" style="float:right"> 
+<img src="../WebDesignsFolder/Publications/MovieScreenTime2.png" alt="MovieScreenTime" width="300" height="400">
 
 ### 2- Beat Estimation From Musician Visual Cues
 
