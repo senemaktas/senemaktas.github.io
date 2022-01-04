@@ -19,8 +19,7 @@ header:
     width="100%"
 ></embed>
 
-<embed src="https://github.com/senemaktas/Computing-Turkish-Movie-stars-screen-time/blob/30d5e98dbdc7022849a24f578f1884f32e2d1052/Conference_presentation.pdf"
-    type="application/pdf" frameBorder="0" scrolling="auto" height="100%"  width="100%"> </embed>
+<embed src="https://github.com/senemaktas/senemaktas.github.io/blob/e539a528d77af595e0e64cf1674894c82597e5cc/WebDesignsFolder/Publications/Conference_presentation.pdf" frameBorder="0" scrolling="auto" height="100%"  width="100%"> </embed>
 
 <p style="text-align:justify"> <small> Computer Engineering Undergraduate final project. Gained experience in Computer Vision and Image Processing.
 Presented the research at a conference through oral presentation by Senem Aktaş. Studied VGG16, InceptionV3, Xception, MobileNet, and DenseNet deep learning models. </small> </p>
