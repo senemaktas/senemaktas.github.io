@@ -20,7 +20,10 @@ Some pictures that I took
 
 ## Aydın - Kuşadası
 
-<img src="../WebDesignsFolder/.." alt="RepresentationWithTable">
+<img src="../galery/kusadasi1.jpg" alt="ist1" width="300" height="300" style="float:left">
+<img src="../galery/kusadasi2.jpg" alt="ist2" width="300" height="300">
+<img src="../galery/kusadasi3.jpg" alt="ist1" width="300" height="300" style="float:left">
+<img src="../galery/kusadasi4.jpg" alt="ist2" width="300" height="300">
 
 ## Çanakkale
 
