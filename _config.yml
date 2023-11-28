@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Senem Aktas"
-  avatar           : "/images/profilPic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Engineer"
+  avatar           : "/images/profil2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Artificial Intelligence Engineer"
   location         : "Earth"
   email            :
   links:
