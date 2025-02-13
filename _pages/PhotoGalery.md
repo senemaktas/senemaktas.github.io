@@ -7,8 +7,7 @@ header:
   image: 
   
 ---
-
-Some pictures that I took
+Presented below are several photographs that I captured in various cities across Turkey.
 
 ## Istanbul
 
