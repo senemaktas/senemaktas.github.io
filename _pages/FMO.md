@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: " "
-permalink: /Publications/
+permalink: /FMO/
 author_profile: true
 header:
   image: "/images/"
