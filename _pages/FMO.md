@@ -8,18 +8,11 @@ header:
   
 ---
 
-# Welcome to My Site
+# Welcome to My Extra Content
 
 This is some extra content that will be displayed on the homepage.
 
-## Here is a video
+[Click here to go to the HTML page](/amalia.js-full-1.3.3/full/samples/ajs-plugin-timeline.html)
 
-You can watch the video below:
-
-<!-- You can also include a video tag if needed -->
-<video controls>
-  <source src="/images/output3.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
