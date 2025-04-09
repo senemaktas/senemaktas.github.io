@@ -7,17 +7,19 @@ header:
   image: "/images/"
   
 ---
-### 1- Computing Turkish Movie Stars Screen Time Using Deep Convolutional Networks
 
-- [Paper Link](https://www.researchgate.net/publication/353326673_Computing_Turkish_Movie_Stars_Screen_Time_Using_Deep_Convolutional_Networks) - Computer Vision - Confererence
-- [Conference Presentation](https://raw.githubusercontent.com/senemaktas/senemaktas.github.io/main/WebDesignsFolder/Publications/Conference_presentation.pdf) 
+# Welcome to My Site
 
-<p style="text-align:justify"> <small> Computer Engineering Undergraduate final project. Gained experience in Computer Vision and Image Processing.
-Presented the research at a conference through oral presentation by Senem Aktaş. Studied VGG16, InceptionV3, Xception, MobileNet, and DenseNet deep learning models. </small> </p>
+This is some extra content that will be displayed on the homepage.
 
-- <p style="text-align:justify"> <small> Figure 1. Examples of frames from movies </small> </p>
-<img src="../WebDesignsFolder/Publications/MovieScreenTime1.png" alt="before"	width="265" height="300" style="float:right"> 
-<img src="../WebDesignsFolder/Publications/MovieScreenTime2.png" alt="MovieScreenTime" width="265" height="300">
+## Here is a video
 
+You can watch the video below:
+
+<!-- You can also include a video tag if needed -->
+<video controls>
+  <source src="path/to/your/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
