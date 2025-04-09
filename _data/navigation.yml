@@ -2,6 +2,8 @@
 main:
   - title: "Publications"
     url: /Publications/
+  - title: "FMO"
+    url: /FMO/
   - title: "Posts"
     url: /machine-learning/
   - title: "Web Designs"
