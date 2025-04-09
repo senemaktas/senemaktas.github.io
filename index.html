@@ -8,3 +8,22 @@ header:
 <!-- I included that part extra  image: "/images/siteheaderphoto.png" ------ 
 <!-- Simply set the `src` attribute to your MD file and win 
 <zero-md src="indexExtra.md"></zero-md> -->
+
+<!-- Include Amalia.js -->
+<link rel="stylesheet" href="path/to/amalia.css">
+<script src="path/to/amalia.js"></script>
+
+<!-- Your existing content -->
+<zero-md src="indexExtra.md"></zero-md>
+
+<!-- Add a container for the Amalia player -->
+<div id="amalia-player" style="height: 500px;"></div>
+
+<script>
+  // Initialize the Amalia player
+  var player = new AmaliaPlayer({
+    container: 'amalia-player',
+    media: 'path/to/your/video.mp4', // Replace with your media source
+    // Additional options can be added here
+  });
+</script>
