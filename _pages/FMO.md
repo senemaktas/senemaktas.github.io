@@ -18,7 +18,7 @@ You can watch the video below:
 
 <!-- You can also include a video tag if needed -->
 <video controls>
-  <source src="path/to/your/video.mp4" type="video/mp4">
+  <source src="/images/output3.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
