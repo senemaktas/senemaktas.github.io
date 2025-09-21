@@ -57,6 +57,8 @@ to detect phase from body sway. </small> </p>
 Aktas, S., Markham C., McDonald J., & Dahyot R. (2025).“Benchmarking EfficientTAM on FMO datasets”.  Irish Machine Vision and Image Processing (IMVIP) Conference, (59-66), Derry-Londonderry, Northern Ireland.
 
 Abstract
+<p style="text-align:justify"> <small>  
+
 Fast and tiny object tracking remains a challenge in computer vision and in this paper we first intro-
 duce a JSON metadata file associated with four open source datasets of Fast Moving Objects (FMOs) image
 sequences. In addition, we extend the description of the FMOs datasets with additional ground truth infor-
@@ -65,6 +67,6 @@ a recently proposed foundational model for tracking (called EfficientTAM) showin
 compares well with the pipelines originally taylored for these FMO datasets. Our comparison of these state-
 of-the-art techniques on FMOX is provided with Trajectory Intersection of Union (TIoU) scores. The code
 and JSON is shared open source allowing FMOX to be accessible and usable for other machine learning
-pipelines aiming to process FMO datasets.
+pipelines aiming to process FMO datasets. </small> </p>
 
 
