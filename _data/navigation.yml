@@ -8,5 +8,5 @@ main:
     url: /machine-learning/
   - title: "Web Designs"
     url: /web_designs/
-  - title: "Photo Galery"
-    url: /PhotoGalery/
+  # - title: "Photo Galery"
+  # url: /PhotoGalery/
