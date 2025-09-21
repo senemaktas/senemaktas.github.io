@@ -52,9 +52,10 @@ to detect phase from body sway. </small> </p>
 ### 4- Benchmarking EfficientTAM on FMO datasets
 
 - [Paper Link](https://arxiv.org/abs/2509.06536) - Computer Vision - Confererence
-- [Conference Presentation](https://raw.githubusercontent.com/senemaktas/senemaktas.github.io/main/WebDesignsFolder/Publications/...) 
+- [Conference Presentation](https://raw.githubusercontent.com/senemaktas/senemaktas.github.io/main/WebDesignsFolder/Publications/...)
+- - <p style="text-align:justify"> <small>  Aktas, S., Markham C., McDonald J., & Dahyot R. (2025).“Benchmarking EfficientTAM on FMO datasets”.  Irish Machine Vision and Image Processing (IMVIP) Conference, (59-66), Derry-Londonderry, Northern Ireland. </small> </p> 
 
-Aktas, S., Markham C., McDonald J., & Dahyot R. (2025).“Benchmarking EfficientTAM on FMO datasets”.  Irish Machine Vision and Image Processing (IMVIP) Conference, (59-66), Derry-Londonderry, Northern Ireland.
+
 
 Abstract
 <p style="text-align:justify"> <small>  
