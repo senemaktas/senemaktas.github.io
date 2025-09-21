@@ -2,7 +2,7 @@
 main:
   - title: "Publications"
     url: /Publications/
-  - title: "FMO"
+  - title: "Demos"
     url: /FMO/
   - title: "Posts"
     url: /machine-learning/
